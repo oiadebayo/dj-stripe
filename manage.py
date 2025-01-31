@@ -15,6 +15,7 @@ def main():
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "tests.settings")
     execute_from_command_line(sys.argv)
 
+# new comment
 
 if __name__ == "__main__":
     main()
