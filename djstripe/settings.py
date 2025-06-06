@@ -235,3 +235,6 @@ class DjstripeSettings:
 
 # initialise the settings object
 djstripe_settings = DjstripeSettings()
+
+
+# New change
