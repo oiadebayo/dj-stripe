@@ -30,3 +30,6 @@ class DjstripeAppConfig(AppConfig):
             version=__version__,
             url="https://github.com/dj-stripe/dj-stripe",
         )
+
+
+# New change
